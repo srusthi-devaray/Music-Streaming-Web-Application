@@ -1,4 +1,4 @@
-# Spotify Backend Clone
+Music Streaming Web Application
 
 A backend application built with Node.js, Express.js, MongoDB, JWT Authentication, and ImageKit.
 
